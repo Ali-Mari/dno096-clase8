@@ -1,1 +1,10 @@
-# dno096-clase8
+# dno096-clase8![post de MAC_Mesa de trabajo 1-01](https://github.com/user-attachments/assets/a6aa2deb-88e0-4047-b1fd-1d65de23c11d)
+![post de MAC_Mesa de trabajo 1-03](https://github.com/user-attachments/assets/513a3e06-98c7-43ff-9b4a-814f32c5ce0e)
+![post de MAC_Mesa de trabajo 1-09](https://github.com/user-attachments/assets/19b41f2b-8105-442c-9139-1ae7078981d4)
+![post de MAC_Mesa de trabajo 1-02](https://github.com/user-attachments/assets/9e370881-c9d6-408a-84a1-6b833c2cc0a2)
+![post de MAC_Mesa de trabajo 1-07](https://github.com/user-attachments/assets/a71a8b69-33b5-4ee6-9477-d122cbab041a)
+![post de MAC_Mesa de trabajo 1-12](https://github.com/user-attachments/assets/bd83d855-41f3-4006-a045-66c86009d2be)
+![WhatsApp Image 2023-12-18 at 13 49 15](https://github.com/user-attachments/assets/e4acd0b9-fe80-449e-8935-50f184a3133a)
+![WhatsApp Image 2023-12-19 at 19 01 58](https://github.com/user-attachments/assets/5840576b-34e5-493f-aae5-d265a6ff1ada)
+![WhatsApp Image 2023-12-19 at 19 01 58 (2)](https://github.com/user-attachments/assets/217f1a38-7069-4481-8f25-6543d76aac0d)
+![WhatsApp Image 2023-12-18 at 13 49 17 (2)](https://github.com/user-attachments/assets/b81daa6f-8b72-4e21-9145-ba6ea958f37f)
