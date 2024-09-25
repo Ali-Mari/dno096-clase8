@@ -1,72 +1,72 @@
 [
-    {
-        "nombre": "Edicion Libre 1",
-        "fecha": "2022",
-        "signo": "editorial",
-        "foto": "https://github.com/user-attachments/assets/cb30f581-a220-4a0b-a27c-c4b0e9efff8b",
-        "github": "https://github.com/ali-mari"
-    },
-    {
-        "nombre": "Edicion Libre 2",
-        "fecha": "2022",
-        "signo": "editorial",
-        "foto": "https://github.com/user-attachments/assets/cfba57f3-0359-455a-a78d-48424f9ad5d0",
-        "github": "https://github.com/ali-mari"
-    },
-    {
-        "nombre": "Libro Material y Packaging 1",
-        "fecha": "2023",
-        "signo": "editorial",
-        "foto": "https://github.com/user-attachments/assets/71327a2a-b458-4c33-a172-410d39cd5c88",
-        "github": "https://github.com/ali-mari"
-    },
-    {
-        "nombre": "Libro Material y Packaging 2",
-        "fecha": "2023",
-        "signo": "editorial",
-        "foto": "https://github.com/user-attachments/assets/1a87fb2b-ac55-4337-8a8e-804d6c116974",
-        "github": "https://github.com/ali-mari"
-    },
-    {
-        "nombre": "Museo MAC 1",
-        "fecha": "2024",
-        "signo": "branding",
-        "foto": "https://github.com/user-attachments/assets/b3cdca8c-d63b-4e7d-8ff6-a0e4100a61b2",
-        "github": "https://github.com/ali-mari"
-    },
-    {
-        "nombre": "Museo MAC 2",
-        "fecha": "2024",
-        "signo": "branding",
-        "foto": "https://github.com/user-attachments/assets/5cf98253-859b-4ad4-9046-07f6132c47fb",
-        "github": "https://github.com/ali-mari"
-    },
-    {
-        "nombre": "Museo MAC 3",
-        "fecha": "2024",
-        "signo": "branding",
-        "foto": "https://github.com/user-attachments/assets/f2a103e9-82c7-47a0-b85c-c1d06c795813",
-        "github": "https://github.com/ali-mari"
-    },
-    {
-        "nombre": "Museo MAC 4",
-        "fecha": "2024",
-        "signo": "branding",
-        "foto": "https://github.com/user-attachments/assets/c74c5862-2c7e-4cb8-9258-53fbb4a006f4",
-        "github": "https://github.com/ali-mari"
-    },
-    {
-        "nombre": "Museo MAC 5",
-        "fecha": "2024",
-        "signo": "branding",
-        "foto": "https://github.com/user-attachments/assets/cca66ef2-5845-40a8-806e-d50eb21d2886",
-        "github": "https://github.com/ali-mari"
-    },
-    {
-        "nombre": "Museo MAC 6",
-        "fecha": "2024",
-        "signo": "branding",
-        "foto": "https://github.com/user-attachments/assets/285ef12c-8045-4f80-9d87-0b2b2d4712ba",
-        "github": "https://github.com/ali-mari"
-    },
+   {
+      "nombre":"Edicion Libre 1",
+      "fecha":"2022",
+      "signo":"editorial",
+      "foto":"https://github.com/user-attachments/assets/cb30f581-a220-4a0b-a27c-c4b0e9efff8b",
+      "github":"https://github.com/ali-mari"
+   },
+   {
+      "nombre":"Edicion Libre 2",
+      "fecha":"2022",
+      "signo":"editorial",
+      "foto":"https://github.com/user-attachments/assets/cfba57f3-0359-455a-a78d-48424f9ad5d0",
+      "github":"https://github.com/ali-mari"
+   },
+   {
+      "nombre":"Libro Material y Packaging 1",
+      "fecha":"2023",
+      "signo":"editorial",
+      "foto":"https://github.com/user-attachments/assets/71327a2a-b458-4c33-a172-410d39cd5c88",
+      "github":"https://github.com/ali-mari"
+   },
+   {
+      "nombre":"Libro Material y Packaging 2",
+      "fecha":"2023",
+      "signo":"editorial",
+      "foto":"https://github.com/user-attachments/assets/1a87fb2b-ac55-4337-8a8e-804d6c116974",
+      "github":"https://github.com/ali-mari"
+   },
+   {
+      "nombre":"Museo MAC 1",
+      "fecha":"2024",
+      "signo":"branding",
+      "foto":"https://github.com/user-attachments/assets/b3cdca8c-d63b-4e7d-8ff6-a0e4100a61b2",
+      "github":"https://github.com/ali-mari"
+   },
+   {
+      "nombre":"Museo MAC 2",
+      "fecha":"2024",
+      "signo":"branding",
+      "foto":"https://github.com/user-attachments/assets/5cf98253-859b-4ad4-9046-07f6132c47fb",
+      "github":"https://github.com/ali-mari"
+   },
+   {
+      "nombre":"Museo MAC 3",
+      "fecha":"2024",
+      "signo":"branding",
+      "foto":"https://github.com/user-attachments/assets/f2a103e9-82c7-47a0-b85c-c1d06c795813",
+      "github":"https://github.com/ali-mari"
+   },
+   {
+      "nombre":"Museo MAC 4",
+      "fecha":"2024",
+      "signo":"branding",
+      "foto":"https://github.com/user-attachments/assets/c74c5862-2c7e-4cb8-9258-53fbb4a006f4",
+      "github":"https://github.com/ali-mari"
+   },
+   {
+      "nombre":"Museo MAC 5",
+      "fecha":"2024",
+      "signo":"branding",
+      "foto":"https://github.com/user-attachments/assets/cca66ef2-5845-40a8-806e-d50eb21d2886",
+      "github":"https://github.com/ali-mari"
+   },
+   {
+      "nombre":"Museo MAC 6",
+      "fecha":"2024",
+      "signo":"branding",
+      "foto":"https://github.com/user-attachments/assets/285ef12c-8045-4f80-9d87-0b2b2d4712ba",
+      "github":"https://github.com/ali-mari"
+   }
 ]
